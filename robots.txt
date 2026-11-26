@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amorfatiliwenjie.github.io/sitemap.xml
